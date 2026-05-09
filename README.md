@@ -1,4 +1,4 @@
-# etcpriority
+# ETCPriority
 
 Repository for **Priority-Driven Control and Communication in Decentralized Multi-Agent Systems via Reinforcement Learning**.
 
